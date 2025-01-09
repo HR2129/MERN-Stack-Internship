@@ -1,4 +1,4 @@
-# My React Project
+# My MERN Stack Internship Task
 
 This is a full-stack application built with React for the frontend and Node.js with Express for the backend. The backend uses Sequelize with SQLite for the database. The application includes user authentication, and each user can create, read, update, and delete their own posts.
 
